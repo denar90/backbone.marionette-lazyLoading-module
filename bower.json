@@ -2,7 +2,7 @@
   "name": "backbone.marionette-lazyLoading-module",
   "description": "Lazy loading data module for backbone.marionette",
   "version": "0.0.1",
-  "directory": "backbone.marionette-package/",
+  "directory": "backbone.marionette-lazyLoading-module/",
   "keywords": [
     "backbone",
     "marionette",
