@@ -1,0 +1,30 @@
+{
+  "name": "backbone.marionette-lazyLoading-module",
+  "description": "Lazy loading data module for backbone.marionette",
+  "version": "0.0.1",
+  "directory": "backbone.marionette-package/",
+  "keywords": [
+    "backbone",
+    "marionette",
+    "lazyloading",
+    "requirejs",
+    "underscorejs",
+    "jquery",
+    "handlebars",
+    "javacript",
+    "front-end",
+    "web",
+    "development"
+  ],
+  "homepage": "https://github.com/denar90/backbone.marionette-lazyLoading-module",
+  "authors": [
+    "Denysov Artem"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "marionette": "2.4.1",
+    "requirejs": "latest",
+    "requirejs-text": "latest",
+    "handlebars": "3.0.3"
+  }
+}
