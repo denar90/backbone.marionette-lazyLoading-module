@@ -1,3 +1,13 @@
+/**
+ * Controller module
+ * @exports app
+ * @exports lazyLoading/views/listView
+ * @exports lazyLoading/collections/itemsCollection
+ *
+ * @author Denysov Artem
+ * @link https://github.com/denar90
+ */
+
 define(['app',
 		'lazyLoading/views/listView',
 		'lazyLoading/collections/itemsCollection'], function(App, ListView, ListCollection) {
