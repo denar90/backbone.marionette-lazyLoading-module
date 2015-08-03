@@ -1,4 +1,4 @@
-#backbone.marionette-lazyLoading-module
+#Backbone.marionette lazy loading module
 
 Lazy loading data module for backbone.marionette
 
