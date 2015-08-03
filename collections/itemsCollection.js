@@ -1,3 +1,13 @@
+/**
+ * Collection module
+ * @exports app
+ * @exports backbone
+ * @exports lazyLoading/models/itemModel
+ *
+ * @author Denysov Artem
+ * @link https://github.com/denar90
+ */
+
 define(['app',
 		'backbone',
 		'lazyLoading/models/itemModel'], function(App, Backbone, ItemModel) {

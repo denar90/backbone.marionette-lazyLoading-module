@@ -1,3 +1,11 @@
+/**
+ * View helper module
+ * @exports app
+ *
+ * @author Denysov Artem
+ * @link https://github.com/denar90
+ */
+
 define(['app'], function(App) {
 
 	App.module("LazyLoading.View", function(View, App, Backbone, Marionette) {
